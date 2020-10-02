@@ -11,7 +11,9 @@
 }
 
 
-
+.marg{
+  margin:10px;
+}
 
 #lezioni .row img {
   /* per centrare orizzontalmente */

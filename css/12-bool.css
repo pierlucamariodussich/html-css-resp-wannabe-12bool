@@ -115,6 +115,9 @@
   .col-lg-offset-11{
     margin-left: calc((100%/12)*11)
   }
+  .diplay-none-lg{
+    display:none;
+  }
 }
 
 
